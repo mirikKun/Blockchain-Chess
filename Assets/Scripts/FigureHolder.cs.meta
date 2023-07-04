@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4dc29020afb83e4eb3abdc441a13195
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - figure: {instanceID: 0}
+  - redFlag: {fileID: 8930812951515574654, guid: e672bfdd0b3e1604698d408d609f61a3, type: 3}
+  - blackFlag: {fileID: 71069501084222607, guid: 1c8af8b2cbf8a2840963dacb37f16286, type: 3}
+  - flags: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

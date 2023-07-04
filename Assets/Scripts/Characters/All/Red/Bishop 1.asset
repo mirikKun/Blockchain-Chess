@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb6003665ed450f42b233bc5d22edf57, type: 3}
+  m_Name: Bishop 1
+  m_EditorClassIdentifier: 
+  index: 8
+  characterSprite: {fileID: 21300000, guid: 4467ae2b024a3d0488d36cb45e3d5626, type: 3}
+  characterName: Red Monk
+  characterRole: 3
+  characterClass: 7
+  characterWeapon: 1
+  characterClan: 0
+  figurePrefab: {fileID: 3625913438377445626, guid: e3331506f8882594db2b4791322fa513, type: 3}
+  characterStats: {fileID: 11400000, guid: a9de51d267100a941a86fcc01e92f18c, type: 2}
+  characterProgress:
+    Experience: 0
+    Level: 1
+    expRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 25
+    CurDexterity: 30
+    CurEndurance: 30
+    CurIntelligence: 35
+    CurArmor: 0
+    CurDamage: 0
+    TotalBattles: 0
+    TotalBattlesWon: 0
+    TotalBattlesLost: 0
+    TotalKills: 0
+    TotalDeaths: 0
+    KillsPerGame: 
+  enemyCharacterProgress:
+    Experience: 0
+    Level: 1
+    expRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 20
+    CurDexterity: 20
+    CurEndurance: 20
+    CurIntelligence: 20
+    CurArmor: 10
+    CurDamage: 0
+    TotalBattles: 0
+    TotalBattlesWon: 0
+    TotalBattlesLost: 0
+    TotalKills: 0
+    TotalDeaths: 0
+    KillsPerGame: 

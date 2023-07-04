@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb6003665ed450f42b233bc5d22edf57, type: 3}
+  m_Name: Ashigaru 7
+  m_EditorClassIdentifier: 
+  index: 6
+  characterSprite: {fileID: 21300000, guid: eadf6e30e4e11ab49bca3eccd0994c3c, type: 3}
+  characterName: Red Ashigaru
+  characterRole: 0
+  characterClass: 1
+  characterWeapon: 0
+  characterClan: 0
+  figurePrefab: {fileID: 7437715101632986222, guid: d8056f28916e2664b8d7099a5caf77e8, type: 3}
+  characterStats: {fileID: 11400000, guid: 356a48337ec378945b81e17bda268764, type: 2}
+  characterProgress:
+    Experience: 0
+    Level: 1
+    expRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 20
+    CurDexterity: 20
+    CurEndurance: 20
+    CurIntelligence: 20
+    CurArmor: 10
+    CurDamage: 0
+    TotalBattles: 0
+    TotalBattlesWon: 0
+    TotalBattlesLost: 0
+    TotalKills: 0
+    TotalDeaths: 0
+    KillsPerGame: 
+  enemyCharacterProgress:
+    Experience: 0
+    Level: 1
+    expRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 20
+    CurDexterity: 20
+    CurEndurance: 20
+    CurIntelligence: 20
+    CurArmor: 10
+    CurDamage: 0
+    TotalBattles: 0
+    TotalBattlesWon: 0
+    TotalBattlesLost: 0
+    TotalKills: 0
+    TotalDeaths: 0
+    KillsPerGame: 

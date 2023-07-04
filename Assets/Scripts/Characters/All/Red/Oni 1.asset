@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb6003665ed450f42b233bc5d22edf57, type: 3}
+  m_Name: Oni 1
+  m_EditorClassIdentifier: 
+  index: 16
+  characterSprite: {fileID: 21300000, guid: b84029ed598f65f4ea0db00e19c7b02a, type: 3}
+  characterName: Red Oni
+  characterRole: 1
+  characterClass: 4
+  characterWeapon: 2
+  characterClan: 0
+  figurePrefab: {fileID: 8298836541755595099, guid: c00c34dc4f8874e468ea097ad58b1ebb, type: 3}
+  characterStats: {fileID: 11400000, guid: 12875cd7e9743074995f71509cb73305, type: 2}
+  characterProgress:
+    Experience: 0
+    Level: 1
+    expRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 20
+    CurDexterity: 20
+    CurEndurance: 20
+    CurIntelligence: 20
+    CurArmor: 10
+    CurDamage: 0
+    TotalBattles: 0
+    TotalBattlesWon: 0
+    TotalBattlesLost: 0
+    TotalKills: 0
+    TotalDeaths: 0
+    KillsPerGame: 
+  enemyCharacterProgress:
+    Experience: 0
+    Level: 1
+    expRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 20
+    CurDexterity: 20
+    CurEndurance: 20
+    CurIntelligence: 20
+    CurArmor: 10
+    CurDamage: 0
+    TotalBattles: 0
+    TotalBattlesWon: 0
+    TotalBattlesLost: 0
+    TotalKills: 0
+    TotalDeaths: 0
+    KillsPerGame: 

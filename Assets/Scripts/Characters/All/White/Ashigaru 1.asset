@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb6003665ed450f42b233bc5d22edf57, type: 3}
+  m_Name: Ashigaru 1
+  m_EditorClassIdentifier: 
+  index: 200
+  characterSprite: {fileID: 21300000, guid: ba6afbb7276dd144ca92ffc93e13a1e4, type: 3}
+  characterName: White Ashigaru
+  characterRole: 0
+  characterClass: 1
+  characterWeapon: 0
+  characterClan: 2
+  figurePrefab: {fileID: 8259231703863871383, guid: b7e33507436f75a4e8f54997122d9b04, type: 3}
+  characterStats: {fileID: 11400000, guid: 356a48337ec378945b81e17bda268764, type: 2}
+  characterProgress:
+    Experience: 160
+    Level: 1
+    expRewardsToBeClaimed: 
+    statPointRewardsToBeClaimed: 
+    masteryPointRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 20
+    CurDexterity: 20
+    CurEndurance: 20
+    CurIntelligence: 20
+    CurArmor: 10
+    CurDamage: 0
+    KillsPerGame: 
+  enemyCharacterProgress:
+    Experience: 0
+    Level: 1
+    expRewardsToBeClaimed: 
+    statPointRewardsToBeClaimed: 
+    masteryPointRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 20
+    CurDexterity: 20
+    CurEndurance: 20
+    CurIntelligence: 20
+    CurArmor: 10
+    CurDamage: 0
+    KillsPerGame: 

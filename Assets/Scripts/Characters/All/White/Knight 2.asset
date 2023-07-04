@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb6003665ed450f42b233bc5d22edf57, type: 3}
+  m_Name: Knight 2
+  m_EditorClassIdentifier: 
+  index: 213
+  characterSprite: {fileID: 21300000, guid: 8982ae9ce9888e546b664d23a4d7134a, type: 3}
+  characterName: White Yabusame Archer
+  characterRole: 2
+  characterClass: 5
+  characterWeapon: 4
+  characterClan: 2
+  figurePrefab: {fileID: 2249056603828976338, guid: 579e8da96b50ca04b8c2073636a41ed9, type: 3}
+  characterStats: {fileID: 11400000, guid: f97cb8fc25967f04da3f932443c3dc26, type: 2}
+  characterProgress:
+    Experience: 0
+    Level: 1
+    expRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 20
+    CurDexterity: 20
+    CurEndurance: 20
+    CurIntelligence: 20
+    CurArmor: 10
+    CurDamage: 0
+    TotalBattles: 0
+    TotalBattlesWon: 0
+    TotalBattlesLost: 0
+    TotalKills: 0
+    TotalDeaths: 0
+    KillsPerGame: 
+  enemyCharacterProgress:
+    Experience: 0
+    Level: 1
+    expRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 20
+    CurDexterity: 20
+    CurEndurance: 20
+    CurIntelligence: 20
+    CurArmor: 10
+    CurDamage: 0
+    TotalBattles: 0
+    TotalBattlesWon: 0
+    TotalBattlesLost: 0
+    TotalKills: 0
+    TotalDeaths: 0
+    KillsPerGame: 

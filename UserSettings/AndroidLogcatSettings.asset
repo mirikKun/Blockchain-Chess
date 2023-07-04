@@ -1,0 +1,179 @@
+{
+    "m_SelectedDeviceId": "HA1GN0HY",
+    "m_SelectedPackage": {
+        "deviceId": "HA1GN0HY",
+        "name": "com.DefaultCompany.BlockchainChess",
+        "processId": 31429,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "fcfde0c0",
+            "name": "com.miui.home",
+            "processId": 2832,
+            "exited": false
+        },
+        {
+            "deviceId": "fcfde0c0",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 19952,
+            "exited": true
+        },
+        {
+            "deviceId": "fcfde0c0",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 22036,
+            "exited": true
+        },
+        {
+            "deviceId": "fcfde0c0",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 23086,
+            "exited": true
+        },
+        {
+            "deviceId": "fcfde0c0",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 24231,
+            "exited": true
+        },
+        {
+            "deviceId": "fcfde0c0",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 25046,
+            "exited": true
+        },
+        {
+            "deviceId": "8b654f09",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 16893,
+            "exited": true
+        },
+        {
+            "deviceId": "8b654f09",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 21751,
+            "exited": true
+        },
+        {
+            "deviceId": "8b654f09",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 29283,
+            "exited": false
+        },
+        {
+            "deviceId": "8b654f09",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 18920,
+            "exited": false
+        },
+        {
+            "deviceId": "HA1GN0HY",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 22728,
+            "exited": true
+        },
+        {
+            "deviceId": "HA1GN0HY",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 19195,
+            "exited": true
+        },
+        {
+            "deviceId": "HA1GN0HY",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 31515,
+            "exited": true
+        },
+        {
+            "deviceId": "HA1GN0HY",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 537,
+            "exited": true
+        },
+        {
+            "deviceId": "HA1GN0HY",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 1765,
+            "exited": true
+        },
+        {
+            "deviceId": "HA1GN0HY",
+            "name": "com.unity3d.mobileremote",
+            "processId": 25694,
+            "exited": false
+        },
+        {
+            "deviceId": "HA1GN0HY",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 18882,
+            "exited": false
+        },
+        {
+            "deviceId": "HA1GN0HY",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 29781,
+            "exited": false
+        },
+        {
+            "deviceId": "HA1GN0HY",
+            "name": "com.DefaultCompany.BlockchainChess",
+            "processId": 31429,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

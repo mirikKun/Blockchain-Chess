@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: c2d1473865e95c646bf73767d7933175
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tw Cen MT Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5014c2b514f939240b2c65f85ff234f2, type: 3}
+  - {fileID: 12800000, guid: 2047c73b675bd464db95d253358d1a46, type: 3}
+  - {fileID: 12800000, guid: 820d01d8f2710914da506652d6722d6e, type: 3}
+  - {fileID: 12800000, guid: 00ea53641ddfa39479e70156830cff33, type: 3}
+  - {fileID: 12800000, guid: 40865d6096d876d4ca178be2b9573c38, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

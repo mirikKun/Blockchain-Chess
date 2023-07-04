@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e5e69c766cc58f419479210364c19bf, type: 3}
+  m_Name: KillAshigaru
+  m_EditorClassIdentifier: 
+  id: 0
+  achievementName: First Cut
+  achievementSteps:
+  - description: Kill enemy Ashigaru first
+    goal: 1
+    expReward: 200
+  - description: 'Kill 2 Ashigaru '
+    goal: 2
+    expReward: 400
+  - description: 'Kill 3 Ashigaru '
+    goal: 3
+    expReward: 1000
+  - description: 'Kill 4 Ashigaru '
+    goal: 4
+    expReward: 1800
+  - description: 'Kill 5 Ashigaru '
+    goal: 5
+    expReward: 2500
+  - description: 'Kill 6 Ashigaru '
+    goal: 6
+    expReward: 5000
+  - description: 'Kill 7 Ashigaru '
+    goal: 7
+    expReward: 10000
+  - description: 'Kill 8 Ashigaru '
+    goal: 8
+    expReward: 20000
+  classOfKilled: 1
+  roleOfKilled: 0
+  inOneGame: 1

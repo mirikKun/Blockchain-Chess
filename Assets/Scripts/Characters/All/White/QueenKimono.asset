@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb6003665ed450f42b233bc5d22edf57, type: 3}
+  m_Name: QueenKimono
+  m_EditorClassIdentifier: 
+  index: 219
+  characterSprite: {fileID: 21300000, guid: c026b85632eae4245894678a37a9f79f, type: 3}
+  characterName: White Onna-bugeisha
+  characterRole: 4
+  characterClass: 10
+  characterWeapon: 0
+  characterClan: 2
+  figurePrefab: {fileID: 6616364077044576607, guid: 1e5a174fa31793745b641f92bd64f94e, type: 3}
+  characterStats: {fileID: 11400000, guid: b985526b48605b14b81ae13431446e53, type: 2}
+  characterProgress:
+    Experience: 0
+    Level: 1
+    expRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 20
+    CurDexterity: 20
+    CurEndurance: 20
+    CurIntelligence: 20
+    CurArmor: 10
+    CurDamage: 0
+    TotalBattles: 0
+    TotalBattlesWon: 0
+    TotalBattlesLost: 0
+    TotalKills: 0
+    TotalDeaths: 0
+    KillsPerGame: 
+  enemyCharacterProgress:
+    Experience: 0
+    Level: 1
+    expRewardsToBeClaimed: 
+    TotalStatPoints: 0
+    SpentStatPoints: 0
+    TotalWeaponMasteryPoints: 0
+    SpentWeaponMasteryPoints: 0
+    CurStrength: 20
+    CurDexterity: 20
+    CurEndurance: 20
+    CurIntelligence: 20
+    CurArmor: 10
+    CurDamage: 0
+    TotalBattles: 0
+    TotalBattlesWon: 0
+    TotalBattlesLost: 0
+    TotalKills: 0
+    TotalDeaths: 0
+    KillsPerGame: 
